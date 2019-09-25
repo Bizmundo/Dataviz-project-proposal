@@ -8,7 +8,7 @@ The data I propose to visualize for my project is the [stop and search data of K
 
 I’ve created a proof of concept visualization of this data. It's a bar chart that shows the proportion of the stop and search type by race.
 
-[![image](https://user-images.githubusercontent.com/16506192/65561829-e91de780-df11-11e9-8a30-4959fcf9d725.png](https://beta.vizhub.com/Bizmundo/f2a2654c525c466b8238c041dca5c844)
+![image](https://user-images.githubusercontent.com/16506192/65561829-e91de780-df11-11e9-8a30-4959fcf9d725.png)(https://beta.vizhub.com/Bizmundo/f2a2654c525c466b8238c041dca5c844)
 
 
 
