@@ -30,9 +30,8 @@ Below are the sketches of the charts  that will helps answer the questions above
 It displays the percentage of an attribute by race. It has Combo box that helps the user select the attribute of instrest.
 ![image](https://user-images.githubusercontent.com/16506192/65564934-76663980-df1c-11e9-88f0-d5d9fc865c24.png)
 ### The Kent (UK) map
-It displays the location of the stop and search on the map. It will have a combo box that will help the user overlay other attributes on the map. The slider will help observe the trend of the spatial positions of the stop and search over time.
+It displays the location of the stop and search on the map. It has a combo box that helps the user overlay other attributes on the map. The slider helps observe the trend of the spatial positions of the stop and search over time.
 ![image](https://user-images.githubusercontent.com/16506192/65564970-9695f880-df1c-11e9-93f0-e0ff83f1db19.png)
 
 ## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am not sure that the map of Kent is available in a format will ease the vizulization of this data.
