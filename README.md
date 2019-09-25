@@ -2,11 +2,11 @@
 
 ## Data
 
-The data I propose to visualize for my project is the (stop and search data of Kent (UK) police)[https://gist.github.com/Bizmundo/246821fffd9f3ed3c1c25f515be6eb6e].
+The data I propose to visualize for my project is the [stop and search data of Kent (UK) police](https://gist.github.com/Bizmundo/246821fffd9f3ed3c1c25f515be6eb6e).
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a bar chart that shows the proportion of the stop and search type by race.
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
