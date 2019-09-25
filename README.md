@@ -28,7 +28,7 @@ Below are the sketches of the charts  that will helps answer the questions above
 
 ### The bar chart
 It displays the percentage of an attribute by race. It has Combo box that helps the user select the attribute of instrest.
-[image](https://user-images.githubusercontent.com/16506192/65564934-76663980-df1c-11e9-88f0-d5d9fc865c24.png)
+![image](https://user-images.githubusercontent.com/16506192/65564934-76663980-df1c-11e9-88f0-d5d9fc865c24.png)
 ### The Kent (UK) map
 It displays the location of the stop and search on the map. It will have a combo box that will help the user overlay other attributes on the map. The slider will help observe the trend of the spatial positions of the stop and search over time.
 
