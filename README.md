@@ -25,6 +25,7 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 Below are the sketches of the charts  that will helps answer the questions above.
+[image](https://github.com/Bizmundo/dataviz-project-proposal/files/3650290/scan0001.pdf)
 ### The bar chart
 It displays the percentage of an attribute by race. It has Combo box that helps the user select the attribute of instrest.
 ### The Kent (UK) map
