@@ -27,7 +27,7 @@ The following tasks and questions will drive the visualization and interaction d
 Below are the sketches of the charts  that will help answer the questions above.
 
 ### The bar chart
-It displays the percentage or count of an attribute by race. It has a selection box that helps the user select the attribute of instrest. The selection box will have a default value as "type". Once the user clicks on the selection box he will be presented with a list of attributes. once the user selects an attributes, the chart will then be updated with the values of the selected attribute.
+It displays the percentage or count of an attribute by race. It has a selection box that helps the user select the attribute of instrest. The selection box will have a default value as "type". Once the user clicks on the selection box, he will be presented with a list of attributes. Once the user selects an attributes, the chart will then be updated with the values of the selected attribute.
 ![image](https://user-images.githubusercontent.com/16506192/65564934-76663980-df1c-11e9-88f0-d5d9fc865c24.png)
 ### The Kent (UK) map
 It displays the location of the stop and search on the map. It has a combo box that helps the user overlay other attributes on the map. The slider helps observe the trend of the spatial positions of the stop and search over time. Moving the slider from left to right will display additional locations of the stop and search on the map.
@@ -40,8 +40,8 @@ I am not sure that the map of Kent is available in a format that will ease the v
 * Get addtional data to cover one to five years of stop and search by 10/5/2019
 * Data cleaning by 10/05/2019
 * Gather and prepare Kent city map data 10/05/2019
-* Generate algorithm to display interactive bar chart 10/12/2019
-* Generate algorith to display interactive map 10/17/2019
+* Generate algorithm to display interactive stop and search attributes bar chart 10/12/2019
+* Generate algorithm to display interactive stop and search map 10/17/2019
 * Validation/testing 10/25/2019
 * Submission
 
